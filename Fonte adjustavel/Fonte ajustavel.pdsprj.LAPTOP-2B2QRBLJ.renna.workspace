@@ -5,6 +5,13 @@
   <WINDOW type="default" module="STARTUP"/>
   <WINDOW type="default" module="ISIS"/>
   <WINDOW type="default" module="ARES"/>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="-5030854" y="5900577" z="-6826524"/>
+    <focus x="-7937091" y="5043673" z="-181673"/>
+    <up x="-425032" y="902507" z="-69509"/>
+   </camera>
+  </WINDOW>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
